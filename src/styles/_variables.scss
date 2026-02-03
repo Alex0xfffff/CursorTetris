@@ -1,0 +1,13 @@
+$cell-size: 30px;
+$board-cols: 10;
+$board-rows: 20;
+$board-width: $cell-size * $board-cols;
+$board-height: $cell-size * $board-rows;
+
+$bp-mobile: 480px;
+$bp-tablet: 768px;
+
+$transition-fast: 0.15s ease;
+$transition-normal: 0.25s ease-in-out;
+$radius: 8px;
+$radius-sm: 4px;
